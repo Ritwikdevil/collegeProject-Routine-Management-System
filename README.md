@@ -1,6 +1,6 @@
 # collegeProject-Routine-Management-System
 
-Developed by ||RITWIK MUKHERJEE||&||PRAMIT CHOUDHURY||
+**Developed by ||RITWIK MUKHERJEE||&||PRAMIT CHOUDHURY||**
 
 **Class Routine System is developed using PHP, CSS, bootstrap, and JavaScript. 
 Talking about the project, it contains an admin where he controls the whole 
@@ -54,7 +54,7 @@ MAMP Server
 LAMP Server
 
 ## -: Project category: -
-** Web application **
+**Web application**
 ## -: Software used: -
 (1) Tool: 
 1. Adobe Dreamweaver(8.0) 
@@ -77,7 +77,7 @@ HDD 200 MB                       HDD 320 MB
 PROCESSER                       PROCESSER 
 Pentium 4 or newer              Dual core or newer processor
 processor that 
-support SSE2   **                    
+support SSE2**                    
                                 
 
 
